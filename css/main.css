@@ -1,0 +1,56 @@
+body {
+	font-family: Kalimati, Verdana, sans-serif;
+	color: #666;
+	line-height: 2.3em;
+}
+
+/* hearder */
+#title {
+	margin: 21px 0 0;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 48px;
+}
+
+/*Content*/
+h2 {
+	color: #F07C17;
+	font-weight: 800;
+	font-size: 24px;
+}
+
+.mainfeatures {
+	border: solid 1px #CCC;
+	height: 223px;
+}
+
+img {
+	margin: 0 0 35px;
+}
+
+
+#subtitle {
+	margin: 28px 0 30px 32px;
+
+}
+
+ul {
+	margin: 0 0 0 32px;
+	font-size: 16px;
+}
+
+
+#leftcolumn {
+	margin: 23px 0 0;
+}
+
+p {
+	letter-spacing: 1px;
+}
+
+#p1 {	
+	margin: 35px 0 10px;
+}
+
