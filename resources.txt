@@ -22,4 +22,4 @@ http://getbootstrap.com/css/#grid-example-basic
 
 http://jquery.com/download/
 
-Other Resources: None
+books & blogposts: N/A
