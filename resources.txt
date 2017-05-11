@@ -23,7 +23,3 @@ http://getbootstrap.com/css/#grid-example-basic
 http://jquery.com/download/
 
 Other Resources: None
-
-Added 2 new lines
-
-Added 2 new lines
