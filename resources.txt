@@ -25,3 +25,5 @@ http://jquery.com/download/
 books & blogposts: N/A
 
 special-editon branch added a new line
+
+special-editon branch added two more lines
